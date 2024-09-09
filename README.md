@@ -1,10 +1,10 @@
-Homework - Hello World
+"Homework - Hello World"
 
-My Information
+"My Information"
 
-Name: David Navarro
+"name: Your Name"
 
-CWID: 2916143
+"CWID: 1234567890"
 
-Email: dnavarro51@student.rccd.edu
+"Email: dnavarro51@student.rccd.edu"
 
