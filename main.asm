@@ -1,7 +1,9 @@
 section .data
+
     message db "Hello, my name is David Navarro", 0x0A ; The message string with a newline at the end
 
 section .text
+
     global _start
 
 _start:
